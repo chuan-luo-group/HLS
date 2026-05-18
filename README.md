@@ -2,6 +2,8 @@
 
 *HLS* is a high-performance local search algorithm for solving the qubit mapping problem. This repository contains the source code of *HLS*, the coupling graph of NISQ devices, and the circuit sets used in the experiment, experiment result files of *HLS* and other competitors, and ablation result files.
 
+HLS_paper.pdf is the long version of the HLS letter. 
+
 ## Instructions for Building *HLS*
 
 ```bash
